@@ -18,3 +18,10 @@ A simple and interactive Typing Speed Test web application that helps users meas
 - CSS
 - JavaScript
 - DOM Manipulation
+
+Typing-Speed-Test/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
